@@ -21,8 +21,8 @@ cd conversation-nodejs
 
 ## Criar modelos e adicionar palavras a ele
 
-1. Execute o script createCustomModel.sh para criar um novo modelo baseado no arquivo model.json. Copie o valor de "customization_id" gerado para o arquivo .env
-2. addWords.sh - adiciona as palavras no arquivo words.json ao modelo criado
+1. Execute o script <code>createCustomModel.sh</code> para criar um novo modelo baseado no arquivo model.json. Copie o valor de "customization_id" gerado para o arquivo <code>.env</code>
+2. Execute o script <code>addWords.sh</code> para adicionar as palavras no arquivo words.json ao modelo criado e indicado no arquivo <code>.env</code>
 
 ## Listar modelos e palavras
 
